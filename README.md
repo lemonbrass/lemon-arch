@@ -13,7 +13,7 @@ The main idea behind lemon-arch is that platform shouldn't restrict you from pro
 ## State
 Currently, the CPU Instruction set is in development, the instruction set pdf will be pushed when it is completed
 
-The programming for this project has not initiated as currently, I am working in its design.
+The programming for this project has not been initiated as I am currently working on its design.
 
 ## CPU 
 It has a bitstream based ISA with the first byte as header byte containing conditions, type of instruction, size of remaining instruction, no. of operands, etc.
